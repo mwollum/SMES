@@ -1,5 +1,16 @@
 {
   "resources": [
+    {"id":{"name":"obj_frog","path":"objects/obj_frog/obj_frog.yy",},"order":0,},
+    {"id":{"name":"spr_ghost","path":"sprites/spr_ghost/spr_ghost.yy",},"order":1,},
+    {"id":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},"order":1,},
+    {"id":{"name":"Sprite4","path":"sprites/Sprite4/Sprite4.yy",},"order":2,},
+    {"id":{"name":"obj_room","path":"objects/obj_room/obj_room.yy",},"order":1,},
+    {"id":{"name":"obj_neutral_env","path":"objects/obj_neutral_env/obj_neutral_env.yy",},"order":2,},
+    {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},"order":3,},
+    {"id":{"name":"Free_tile_pack_16","path":"sprites/Free_tile_pack_16/Free_tile_pack_16.yy",},"order":0,},
+    {"id":{"name":"spr_frog","path":"sprites/spr_frog/spr_frog.yy",},"order":0,},
+    {"id":{"name":"room_water_road","path":"rooms/room_water_road/room_water_road.yy",},"order":1,},
+    {"id":{"name":"obj_ghost","path":"objects/obj_ghost/obj_ghost.yy",},"order":3,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
@@ -14,6 +25,7 @@
     "children": [],
   },
   "RoomOrderNodes": [
+    {"roomId":{"name":"room_water_road","path":"rooms/room_water_road/room_water_road.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "Folders": [
@@ -40,7 +52,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2.3.1.542",
+    "IDEVersion": "2.3.2.556",
   },
   "resourceVersion": "1.4",
   "name": "cross-this-mess",
